@@ -72,6 +72,7 @@
 ![Тестировка](README_assets/gameplay2.gif)
 
 💡 Автор: [Tatarenok](https://github.com/Tatarenok)
+
 📌 Проект на GitHub: 3DSnake
 
 📢 P.S. Если понравился проект — поставь ⭐️!
