@@ -1,4 +1,18 @@
 # 🐍 3D Snake Game 🎮  
+<p align="center">
+  <img src="README_assets/preview.png" alt="3D Snake" width="60%">
+</p>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/Engine-Unity-black?logo=unity" alt="Engine">
+   <img src="https://img.shields.io/badge/Language-C%23-purple?logo=csharp" alt="Language">
+   <img src="https://img.shields.io/badge/Platform-WebGL-blue?logo=google-chrome" alt="Platform">
+   <img src="https://img.shields.io/badge/Platform-Windows%20|%20Mac%20|%20Linux-green?logo=windows" alt="Platform">
+   <img src="https://img.shields.io/badge/Status-In%20Development-orange?logo=github" alt="Status">
+   <img src="https://img.shields.io/badge/License-MIT-red?logo=open-source-initiative" alt="License">
+   <img src="https://img.shields.io/badge/Version-1.0-brightgreen" alt="Version">
+</p>
+
 
 📌 **Описание:**  
 Этот проект — реализация классической игры «Змейка» в 3D, разработанный в рамках дисциплины **«Программная инженерия»**.  
@@ -57,10 +71,7 @@
 ![Геймплей](README_assets/vid1.gif)
 ![Тестировка](README_assets/gameplay2.gif)
 
-💡 Автор: Nail Nurmukhamedov
+💡 Автор: [Tatarenok](https://github.com/Tatarenok)
 📌 Проект на GitHub: 3DSnake
 
 📢 P.S. Если понравился проект — поставь ⭐️!
-
-📜 Лицензия
-Этот проект распространяется под MIT License. Подробности см. в файле LICENSE.
